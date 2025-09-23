@@ -48,4 +48,4 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-📫 How to reach me: [Your contact information here]
+📫 How to reach me: [guswo4428@catholic.ac.kr]
