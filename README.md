@@ -22,7 +22,7 @@
 | Year | Award | Competition |
 |------|-------|------------|
 | 2025 | 🥇 **Grand Prize (1st / 980)** — Individual | KT K Intelligence Hackathon 2025, Track 2 |
-| 2025 | 🥈 **6th Place (~1,500)** | LG Aimers 8th, LLM Inference Optimization |
+| 2026 | 🥈 **6th Place (~1,500)** | LG Aimers 8th, LLM Inference Optimization |
 
 > RAG:History (KT Hackathon) was featured on KT's official tech blog **KODE** — the first non-employee contribution.
 
