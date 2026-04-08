@@ -12,7 +12,7 @@
 
 ## 🔭 What I'm Working On
 
-- **Prototype-based Cross-modal Federated Learning** — Handling missing modalities in multimodal federated settings with prototype-based representation learning (MELD dataset, audio + text)
+- **Prototype-based Cross-modal Federated Learning** — Handling missing modalities in multimodal federated settings with prototype-based representation learning 
 - **Graph-based Financial Recommender System** — SR-GNN + GATv2/HAN shared encoder with LightGCN (BPR Loss) and PPO-based RL head, targeting ~3M users at Naver Pay
 
 ---
