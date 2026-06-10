@@ -1,9 +1,10 @@
 <h1 align="center">Hi, I'm Hyunjae Park 👋</h1>
-
 <p align="center">
   Undergraduate Researcher · Industry Collaborator · AI Engineer
 </p>
-
+<p align="center">
+  B.S. in Artificial Intelligence @ The Catholic University of Korea
+</p>
 <p align="center">
   <a href="mailto:guswo4428@catholic.ac.kr">📬 guswo4428@catholic.ac.kr</a>
 </p>
@@ -12,27 +13,30 @@
 
 ## 🔭 What I'm Working On
 
-- **Prototype-based Cross-modal Federated Learning** — Handling missing modalities in multimodal federated settings with prototype-based representation learning 
-- **Graph-based Financial Recommender System** — SR-GNN + GATv2/HAN shared encoder with LightGCN (BPR Loss) and PPO-based RL head, targeting ~3M users at Naver Pay
+- **Prototype-based Cross-modal Federated Learning** — Tackling stochastic missing modalities in multimodal federated settings with a Specific/Shared dual-encoder and prototype-based representation learning *(KIIE 2026, 1st author)*
+- **Efficient LLM Inference** — Post-training quantization (GPTQ / AWQ) and vocabulary pruning for small LLMs, with vLLM-based serving optimization
+- **Financial AI @ Naver Pay** — Session-based & graph-based product recommendation (GRU4Rec / SASRec / SR-GNN) and explainable credit scoring (SHAP, counterfactual) over ~3M users
+
+---
+
+## 📄 Publications
+
+- **Park, H.†**, Eom, J., Jang, J. *"Prototype-based Multimodal Federated Learning under Missing/Cross Modality."* **KIIE Spring Joint Conference 2026** (Poster) · `1st author`
+  <br/>↳ Specific/Shared dual-encoder + prototype loss with warm-up alignment for cross-modal missing modality (MELD)
+- **Shim, J.†, Park, H.†**, Goo, J.†, Jeon, S.†, Jang, J. *"Quantization-aware Vocabulary Pruning for Efficient LLM Inference (QAVP)."* **KIIE Spring Joint Conference 2026** (Poster) · `co-1st (equal contribution)`
+  <br/>↳ Frequency-gated, KL-based vocab pruning for PTQ SLMs (Qwen3-0.6B · Gemma3-1B · EXAONE-1.2B · Mi:dm-2-mini × GPTQ/AWQ)
 
 ---
 
 ## 🏆 Awards & Recognition
 
 | Year | Award | Competition |
-|------|-------|------------|
-| 2025 | 🥇 **Grand Prize (1st / 980)** — Individual | KT K Intelligence Hackathon 2025, Track 2 |
-| 2026 | 🥈 **6th Place (~1,500)** | LG Aimers 8th, LLM Inference Optimization |
+|------|-------|-------------|
+| 2025 | 🥇 **Grand Prize (1st / 980)** — Individual | KT K-Intelligence Hackathon 2025, Track 2 |
+| 2026 | 🥈 **6th Place (~1,500)** | LG Aimers 8th — LLM Inference Optimization |
+| 2026 | 🏅 **Excellence Award** | 4th CUK Innovation Idea Competition (AI CODI 2.0) |
 
-> RAG:History (KT Hackathon) was featured on KT's official tech blog **KODE** — the first non-employee contribution.
-
----
-
-## 📄 Research
-
-**Current**
-- Prototype-based representation learning for cross-modal missing modality in federated environments *(in progress)*
-- XAI-based credit scoring model + GNN-based financial product recommendation *(Naver Pay collaboration)*
+> 🔗 **RAG:History** (KT Hackathon) was featured on KT's official tech blog **KODE** — the first non-employee contribution.
 
 ---
 
@@ -46,10 +50,16 @@
 
 ### ML / AI
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFCD00?style=for-the-badge&logoColor=black)
 ![PyTorch Geometric](https://img.shields.io/badge/PyG-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFCD00?style=for-the-badge&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+
+### LLM / Serving
+![vLLM](https://img.shields.io/badge/vLLM-1A1A2E?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 ### Data & Infra
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -75,4 +85,4 @@
 
 ## 📫 Contact
 
-- Email: guswo4428@catholic.ac.kr
+- 📬 Email: guswo4428@catholic.ac.kr
