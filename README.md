@@ -27,7 +27,7 @@
 - Adaptive-margin prototype learning for multimodal federated learning
 - Stable convergence when clients have stochastic missing modalities
 
-**Naver Financial** — Industry–Academia Research Assistant · *Oct 2025 – Aug 2026*
+**Naver Financial** — Industry–Academia Research Assistant · *Oct 2025 – Nov 2026*
 
 - Credit-refinancing conversion prediction on ~3M real transaction records
 - ROC-AUC **0.880 → 0.93** over a LightGBM baseline with session features and a Transformer
