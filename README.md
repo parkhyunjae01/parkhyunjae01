@@ -45,14 +45,14 @@
 
 ## 🏆 Awards
 
-| Year | Result | Competition |
-|------|--------|-------------|
-| 2026 | **8th / ~2,200 · Finalist** | LG Aimers 9th — Online Hackathon |
-| 2026 | **Excellence Award** (~2,000 participants) | 3rd Wind Power Forecasting AI Competition — BARAM 2026 |
-| 2026 | **Excellence Award** | 4th CUK Innovation Idea Competition — AI CODI 2.0 |
-| 2026 | **6th / ~1,500** | LG Aimers 8th — EXAONE Compression Hackathon |
-| 2025 | 🥇 **Grand Prize (1st / 980)** | KT K-Intelligence Hackathon 2025, Track 2 |
-| 2025 | **Academic Achievement Scholarship** ×2 | The Catholic University of Korea |
+| | Award | Competition | Host |
+|:-:|-------|-------------|------|
+| 🏅 | **8th / ~2,200 · Finalist** | LG Aimers 9th — Pitch Command Prediction Hackathon *(2026)* | LG AI Research · LG Sports |
+| 🏅 | **Excellence Award** · ~2,000 participants | 3rd Wind Power Forecasting AI Competition — BARAM 2026 *(2026)* | Korea East-West Power · DACON |
+| 🏅 | **Excellence Award** | 4th CUK Innovation Idea Competition — AI CODI 2.0 *(2026)* | The Catholic University of Korea |
+| 🏅 | **6th / ~1,500 · Finalist** | LG Aimers 8th — EXAONE Compression Hackathon *(2026)* | LG AI Research |
+| 🥇 | **Grand Prize · 1st / 980** | K-Intelligence Hackathon 2025, Track 2 *(2025)* | KT · DACON |
+| 🎓 | **Academic Achievement Scholarship** ×2 | Outstanding academic performance *(2025)* | The Catholic University of Korea |
 
 > **RAG:History** (KT Hackathon) was featured on KT's official tech blog **KODE** — the first non-employee contribution.
 
