@@ -1,101 +1,78 @@
 <h1 align="center">Hi, I'm Hyunjae Park 👋</h1>
+
 <p align="center">
-  Undergraduate Researcher · Industry Collaborator · AI Engineer
+  <b>Undergraduate AI Researcher</b> · B.S. in Artificial Intelligence @ The Catholic University of Korea
 </p>
+
 <p align="center">
-  B.S. in Artificial Intelligence @ The Catholic University of Korea
+  Multimodal Federated Learning · Efficient LLM Inference · Agentic AI & RAG
 </p>
+
 <p align="center">
   <a href="mailto:guswo4428@gmail.com">📬 guswo4428@gmail.com</a>
 </p>
 
 ---
 
-## 🔭 Research & Experience
+## 🔭 Research Interests
 
-- **Multimodal Federated Learning** — Applied AI Lab, CUK *(May 2025 – Present)*
-  <br/>↳ Adaptive-margin prototype learning: jointly learns modality-specific and shared embeddings with class- and modality-wise adaptive margins, for stable convergence when clients have stochastic missing modalities
-- **Financial AI @ Naver Financial** — Industry–Academia Research Assistant *(Oct 2025 – Aug 2026)*
-  <br/>↳ Credit-refinancing conversion prediction on ~3M real transaction records: ROC-AUC **0.880 → 0.93** over a LightGBM baseline by adding session features and a Transformer
-  <br/>↳ Extended probability-based evaluation into profit-aware targeting — expected profit estimated from loan amount, interest rate, default rate, and recovery rate
-- **Efficient LLM Inference** — Post-training quantization (GPTQ / AWQ), vocabulary pruning for small LLMs, and vLLM-based serving optimization
-- **Agentic AI & RAG** — Retrieval-grounded generation, citation-faithful response design, LLM evaluation
+- **Multimodal Federated Learning** — cross-modal representation learning, prototype-based methods, missing modalities across clients
+- **Efficient LLM Inference** — post-training quantization (GPTQ / AWQ), vocabulary pruning, vLLM-based serving
+- **Agentic AI & RAG** — retrieval-grounded generation, citation-faithful responses, LLM evaluation
 
----
+## 💼 Experience
+
+**Applied AI Lab, CUK** — Undergraduate Research Intern · *May 2025 – Present*
+
+- Adaptive-margin prototype learning for multimodal federated learning
+- Stable convergence when clients have stochastic missing modalities
+
+**Naver Financial** — Industry–Academia Research Assistant · *Oct 2025 – Aug 2026*
+
+- Credit-refinancing conversion prediction on ~3M real transaction records
+- ROC-AUC **0.880 → 0.93** over a LightGBM baseline with session features and a Transformer
+- Profit-aware targeting from loan amount, interest rate, default rate, and recovery rate
 
 ## 📄 Publications
 
-- **Under review at CVPR 2027** — Manuscript on robust multimodal federated learning with incomplete modalities *(title and author list withheld during double-blind review)*
-- **Park, H.†**, Eom, J., Jang, J. *"Prototype-based Multimodal Federated Learning under Missing/Cross Modality."* **KIIE Spring Joint Conference 2026** (Poster) · `1st author`
-  <br/>↳ Specific/Shared dual-encoder + prototype loss with warm-up alignment for cross-modal missing modality
-- **Shim, J.†, Park, H.†**, Goo, J.†, Jeon, S.†, Jang, J. *"Quantization-aware Vocabulary Pruning for Efficient LLM Inference (QAVP)."* **KIIE Spring Joint Conference 2026** (Poster) · `co-1st (equal contribution)`
-  <br/>↳ Frequency-gated, KL-based vocab pruning for PTQ SLMs (Qwen3-0.6B · Gemma3-1B · EXAONE-1.2B · Mi:dm-2-mini × GPTQ/AWQ at W4A16/W8A16)
+| Venue | Paper | Role |
+|-------|-------|------|
+| CVPR 2027 | Robust multimodal federated learning with incomplete modalities | *Under review* |
+| KIIE Spring 2026 | Prototype-based Multimodal Federated Learning under Missing/Cross Modality | 1st author · Poster |
+| KIIE Spring 2026 | Quantization-aware Vocabulary Pruning for Efficient LLM Inference (QAVP) | Co-1st author · Poster |
 
----
+<sub>CVPR entry: title and author list withheld during double-blind review.</sub>
 
-## 🏆 Awards & Recognition
+## 🏆 Awards
 
-| Year | Award | Competition |
-|------|-------|-------------|
-| 2026 | 🏅 **8th Place (~2,200) · Finalist** | LG Aimers 9th — Online Hackathon |
-| 2026 | 🏅 **Excellence Award (~2,000 participants)** | 3rd Wind Power Forecasting AI Competition — BARAM 2026 (DACON) |
-| 2026 | 🏅 **Excellence Award** | 4th CUK Innovation Idea Competition (AI CODI 2.0) |
-| 2026 | 🏅 **6th Place (~1,500)** | LG Aimers 8th — EXAONE Compression Hackathon |
-| 2025 | 🥇 **Grand Prize (1st / 980)** — Individual | KT K-Intelligence Hackathon 2025, Track 2 |
-| 2025 | 🎓 **Outstanding Academic Achievement Scholarship** (×2) | The Catholic University of Korea |
+| Year | Result | Competition |
+|------|--------|-------------|
+| 2026 | **8th / ~2,200 · Finalist** | LG Aimers 9th — Online Hackathon |
+| 2026 | **Excellence Award** (~2,000 participants) | 3rd Wind Power Forecasting AI Competition — BARAM 2026 |
+| 2026 | **Excellence Award** | 4th CUK Innovation Idea Competition — AI CODI 2.0 |
+| 2026 | **6th / ~1,500** | LG Aimers 8th — EXAONE Compression Hackathon |
+| 2025 | 🥇 **Grand Prize (1st / 980)** | KT K-Intelligence Hackathon 2025, Track 2 |
+| 2025 | **Academic Achievement Scholarship** ×2 | The Catholic University of Korea |
 
-> 🔗 **RAG:History** (KT Hackathon) was featured on KT's official tech blog **KODE** — the first non-employee contribution.
+> **RAG:History** (KT Hackathon) was featured on KT's official tech blog **KODE** — the first non-employee contribution.
 
----
+## 🚀 Projects
 
-## 🚀 Selected Projects
-
-- **Multi-Agent Marketing-Content Pipeline** — JB Fin:AI Challenge *(Jun 2026)*
-  <br/>↳ 12-node LangGraph pipeline separating LLM judgment (ReAct agents) from deterministic engines, with dual FAISS-RAG gates over financial and compliance DBs · FastAPI (SSE) + React
-- **Personalized Speaking-Style Generation** — LLM Fine-Tuning + RAG *(Mar – Jul 2025)*
-  <br/>↳ KoGPT2 partial fine-tuning on personal chat logs; compared zero-shot / few-shot / fine-tuning across 3 LLMs with BERTScore and LLM-as-Judge
-- **RAG-Based Civil Complaint Automation** — Ministry of Environment, GDGoC CUK *(Apr – Jul 2025)*
-  <br/>↳ Vector-search → LLM pipeline that grounds replies in similar past waste-management complaints from e-People
-
----
+| Project | What it does | Stack |
+|---------|--------------|-------|
+| **Multi-Agent Marketing-Content Pipeline**<br/><sub>JB Fin:AI Challenge · Jun 2026</sub> | 12-node pipeline separating LLM judgment from deterministic engines, with dual RAG gates over financial and compliance DBs | LangGraph · FAISS · FastAPI · React |
+| **Personalized Speaking-Style Generation**<br/><sub>Mar – Jul 2025</sub> | Partial fine-tuning on personal chat logs; zero-shot vs. few-shot vs. fine-tuning across 3 LLMs | KoGPT2 · BERTScore · LLM-as-Judge |
+| **RAG-Based Civil Complaint Automation**<br/><sub>Ministry of Environment · Apr – Jul 2025</sub> | Grounds replies to waste-management complaints in similar past cases | Vector search · LLM |
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ML / AI
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![PyTorch Geometric](https://img.shields.io/badge/PyG-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFCD00?style=for-the-badge&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logoColor=white)
-![Optuna](https://img.shields.io/badge/Optuna-0B4F9E?style=for-the-badge&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-### LLM / Serving
-![vLLM](https://img.shields.io/badge/vLLM-1A1A2E?style=for-the-badge&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-
-### Data & Infra
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Reinforcement Learning
-![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=openaigym&logoColor=white)
-![Ray RLlib](https://img.shields.io/badge/Ray_RLlib-028CF0?style=for-the-badge&logo=ray&logoColor=white)
-
----
+| Area | Tools |
+|------|-------|
+| **Languages** | Python · C · C++ · JavaScript |
+| **ML / AI** | PyTorch · PyTorch Geometric · Hugging Face · scikit-learn · LightGBM · Optuna · OpenCV |
+| **LLM / Serving** | vLLM · LangChain · LangGraph · FAISS · FastAPI · CUDA |
+| **RL** | Gymnasium · Ray RLlib |
+| **Data & Infra** | Pandas · NumPy · MySQL · Git · Linux |
 
 ## 📊 GitHub Stats
 
@@ -103,9 +80,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=parkhyunjae01&show_icons=true&theme=default&hide_border=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkhyunjae01&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
-
----
-
-## 📫 Contact
-
-- 📬 Email: guswo4428@gmail.com
