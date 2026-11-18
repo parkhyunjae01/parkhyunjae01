@@ -41,8 +41,6 @@
 | KIIE Spring 2026 | Prototype-based Multimodal Federated Learning under Missing/Cross Modality | 1st author · Poster |
 | KIIE Spring 2026 | Quantization-aware Vocabulary Pruning for Efficient LLM Inference (QAVP) | Co-1st author · Poster |
 
-<sub>CVPR entry: title and author list withheld during double-blind review.</sub>
-
 ## 🏆 Awards
 
 | | Award | Competition | Host |
