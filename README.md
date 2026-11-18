@@ -25,6 +25,7 @@
 
 ## 📄 Publications
 
+- **Under review at CVPR 2027** — Manuscript on robust multimodal federated learning with incomplete modalities *(title and author list withheld during double-blind review)*
 - **Park, H.†**, Eom, J., Jang, J. *"Prototype-based Multimodal Federated Learning under Missing/Cross Modality."* **KIIE Spring Joint Conference 2026** (Poster) · `1st author`
   <br/>↳ Specific/Shared dual-encoder + prototype loss with warm-up alignment for cross-modal missing modality
 - **Shim, J.†, Park, H.†**, Goo, J.†, Jeon, S.†, Jang, J. *"Quantization-aware Vocabulary Pruning for Efficient LLM Inference (QAVP)."* **KIIE Spring Joint Conference 2026** (Poster) · `co-1st (equal contribution)`
