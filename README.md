@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Hyunjae Park 👋</h1>
+<h1 align="center"> Hyunjae Park </h1>
 
 <p align="center">
   <b>Undergraduate AI Researcher</b> · B.S. in Artificial Intelligence @ The Catholic University of Korea
