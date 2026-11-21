@@ -37,7 +37,6 @@
 
 | Venue | Paper | Role |
 |-------|-------|------|
-| CVPR 2027 | Robust multimodal federated learning with incomplete modalities | *Under review* |
 | KIIE Spring 2026 | Prototype-based Multimodal Federated Learning under Missing/Cross Modality | 1st author · Poster |
 | KIIE Spring 2026 | Quantization-aware Vocabulary Pruning for Efficient LLM Inference (QAVP) | Co-1st author · Poster |
 
